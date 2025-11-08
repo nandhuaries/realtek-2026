@@ -63,7 +63,8 @@
                                         </a>
                                     </div>
                                     <div class="col-12 col-md-4 mb-3">
-                                        <a type="button" class="theme-btn w-100" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                        <a type="button" class="theme-btn w-100" data-bs-toggle="modal"
+                                            data-bs-target="#exampleModal">
                                             Register as Media
                                             <i class="fas fa-arrow-right"></i>
                                         </a>
@@ -210,7 +211,10 @@
                         </div>
                         <p class="about-text">
                             <b> Organized by Biz Events, Realtek Summit 2026 returns to Dubai, UAE!</b><br>
-                            Join global innovators, technology pioneers, and industry leaders as they converge to explore the transformative trends shaping connectivity, semiconductors, and smart solutions. Discover the next frontier of Realtek innovation—all from the vibrant heart of the Middle East.
+                            Join global innovators, technology pioneers, and industry leaders as they converge to
+                            explore the transformative trends shaping connectivity, semiconductors, and smart solutions.
+                            Discover the next frontier of Realtek innovation—all from the vibrant heart of the Middle
+                            East.
 
                         </p>
                         <a href="about" class="theme-btn mt-3">About Us<i class="fas fa-arrow-right"></i></a>
@@ -225,23 +229,22 @@
     <!-- video area -->
     <div class="video-area">
         <div class="container-fluid px-0">
-            <div class="video-content pb-50" style="background-image: url(assets/img/video/01.jpg);">
+            <div class="video-content pb-50"
+                style="background-image: url(assets/esol/images/common/why-atttend.png);background-attachment: fixed;">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-8">
                             <div class="video-info">
                                 <div class="site-heading mb-0">
-                                    <span class="site-title-tagline text-white">Latest Video</span>
-                                    <h2 class="site-title text-white">We organize conference for <span>creative</span> thinking.</h2>
+                                    <span class="site-title-tagline text-white">Why Attend RealTek 2026?</span>
+                                    <h2 class="site-title text-white">
+                                        We connect minds for real estate innovation.
+                                    </h2>
                                 </div>
-                                <a href="#" class="theme-btn mt-30">Learn More <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="video-wrapper">
-                                <a class="play-btn popup-youtube" href="https://www.youtube.com/watch?v=ckHzmP1evNU">
-                                    <i class="fas fa-play"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -257,48 +260,95 @@
         <div class="container">
             <div class="feature-wrapper">
                 <div class="row g-4">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-6 col-lg-4">
                         <div class="feature-item wow fadeInUp" data-wow-delay=".25s">
                             <span class="count">01</span>
                             <div class="feature-icon">
-                                <img src="assets/img/icon/speaker.svg" alt="">
+                                <i class="fa-solid fa-microchip"></i>
                             </div>
-                            <h4 class="feature-title">Great Speakers</h4>
-                            <p>It is a long established fact that a reader will be distracted.</p>
-                            <a href="contact.html" class="theme-btn mt-20">Learn More<i class="fas fa-arrow-right"></i></a>
+                            <h4 class="feature-title">Real Estate Tech Innovators</h4>
+                            <p>
+                                Gain a deep understanding of today’s market challenges and uncover high-potential
+                                opportunities to sharpen your innovation strategy.
+                                Connect with leading investors, executives, and entrepreneurs to forge strategic,
+                                growth-driven partnerships.
+                                Discover the latest advancements transforming Residential and Commercial Real Estate,
+                                Property Management, Smart Buildings, and beyond.
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-6 col-lg-4">
                         <div class="feature-item wow fadeInDown" data-wow-delay=".25s">
                             <span class="count">02</span>
                             <div class="feature-icon">
-                                <img src="assets/img/icon/learn.svg" alt="">
+                                <i class="fa-solid fa-building"></i>
                             </div>
-                            <h4 class="feature-title">Learn New Things</h4>
-                            <p>It is a long established fact that a reader will be distracted.</p>
-                            <a href="contact.html" class="theme-btn mt-20">Learn More<i class="fas fa-arrow-right"></i></a>
+                            <h4 class="feature-title">
+                                Real Estate Developers & Investors
+                            </h4>
+                            <p>
+                                Explore emerging investment strategies and strategic partnerships that drive sustainable
+                                growth.
+                                Stay ahead of the competition by identifying new market opportunities and evolving
+                                industry trends.
+                                Leverage cutting-edge technologies and tools to optimize operations and enhance asset
+                                value.
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-6 col-lg-4">
                         <div class="feature-item wow fadeInUp" data-wow-delay=".25s">
                             <span class="count">03</span>
                             <div class="feature-icon">
-                                <img src="assets/img/icon/meet.svg" alt="">
+                                <i class="fa-solid fa-hand-holding-dollar"></i>
                             </div>
-                            <h4 class="feature-title">Meet New People</h4>
-                            <p>It is a long established fact that a reader will be distracted.</p>
-                            <a href="contact.html" class="theme-btn mt-20">Learn More<i class="fas fa-arrow-right"></i></a>
+                            <h4 class="feature-title">
+                                Investors & Venture Capitalists
+                            </h4>
+                            <p>
+                                Gain comprehensive visibility across the real estate technology landscape—from emerging
+                                startups to established market leaders.
+                                Build strategic connections with industry innovators to stay ahead of evolving market
+                                trends.
+                                Access valuable insights into acquisition strategies and investment priorities shaping
+                                global real estate markets.
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-6 col-lg-4">
                         <div class="feature-item wow fadeInDown" data-wow-delay=".25s">
                             <span class="count">04</span>
                             <div class="feature-icon">
-                                <img src="assets/img/icon/question.svg" alt="">
+                                <i class="fa-solid fa-user-group"></i>
                             </div>
-                            <h4 class="feature-title">Ask Questions</h4>
-                            <p>It is a long established fact that a reader will be distracted.</p>
-                            <a href="contact.html" class="theme-btn mt-20">Learn More<i class="fas fa-arrow-right"></i></a>
+                            <h4 class="feature-title">
+                                Networking
+                            </h4>
+                            <p>
+                                Engage in one-on-one networking with the RealTek community to build meaningful,
+                                high-impact connections.
+                                Showcase your solutions through live demos and presentations to connect directly with
+                                prospective partners.
+                                Elevate your brand and collaborate with professionals shaping the future of real estate
+                                innovation.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="feature-item wow fadeInDown" data-wow-delay=".25s">
+                            <span class="count">05</span>
+                            <div class="feature-icon">
+                                <i class="fa-solid fa-bullseye-arrow"></i>
+                            </div>
+                            <h4 class="feature-title">
+                                Lead Generation
+                            </h4>
+                            <p>
+                                Generate high-quality leads and cultivate connections that extend well beyond the event.
+                                Identify client interests and nurture meaningful relationships with prospective
+                                customers.
+                                Expand your network and convert targeted opportunities into lasting business growth.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -323,7 +373,9 @@
             <div class="schedule-nav wow fadeInUp" data-wow-delay=".25s">
                 <ul class="nav nav-pills" id="pills-tab-schedule" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="pills-schedule-tab1" data-bs-toggle="pill" data-bs-target="#pills-schedule1" type="button" role="tab" aria-controls="pills-schedule1" aria-selected="true">
+                        <button class="nav-link active" id="pills-schedule-tab1" data-bs-toggle="pill"
+                            data-bs-target="#pills-schedule1" type="button" role="tab" aria-controls="pills-schedule1"
+                            aria-selected="true">
                             <span class="icon"><i class="fal fa-calendar-days"></i></span>
                             <span class="content">
                                 <span class="day">Day 01</span>
@@ -332,7 +384,9 @@
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-schedule-tab2" data-bs-toggle="pill" data-bs-target="#pills-schedule2" type="button" role="tab" aria-controls="pills-schedule2" aria-selected="false">
+                        <button class="nav-link" id="pills-schedule-tab2" data-bs-toggle="pill"
+                            data-bs-target="#pills-schedule2" type="button" role="tab" aria-controls="pills-schedule2"
+                            aria-selected="false">
                             <span class="icon"><i class="fal fa-calendar-days"></i></span>
                             <span class="content">
                                 <span class="day">Day 02</span>
@@ -341,7 +395,9 @@
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-schedule-tab3" data-bs-toggle="pill" data-bs-target="#pills-schedule3" type="button" role="tab" aria-controls="pills-schedule3" aria-selected="false">
+                        <button class="nav-link" id="pills-schedule-tab3" data-bs-toggle="pill"
+                            data-bs-target="#pills-schedule3" type="button" role="tab" aria-controls="pills-schedule3"
+                            aria-selected="false">
                             <span class="icon"><i class="fal fa-calendar-days"></i></span>
                             <span class="content">
                                 <span class="day">Day 03</span>
@@ -353,7 +409,8 @@
             </div>
             <div class="tab-content wow fadeInUp" data-wow-delay=".25s" id="pills-tabContent-schedule">
                 <!-- tab 1 -->
-                <div class="tab-pane fade show active" id="pills-schedule1" role="tabpanel" aria-labelledby="pills-schedule-tab1" tabindex="0">
+                <div class="tab-pane fade show active" id="pills-schedule1" role="tabpanel"
+                    aria-labelledby="pills-schedule-tab1" tabindex="0">
                     <div class="row g-4">
                         <div class="col-lg-12">
                             <div class="schedule-item">
@@ -371,14 +428,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">Business World Event Introduction</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/01.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Frederick Taylor</h6>
@@ -388,7 +448,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Tony Mendoza</h6>
@@ -396,7 +457,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -418,14 +480,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">Introduction Digital Technology Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Bryan Credle</h6>
@@ -435,7 +500,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/04.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Helene Falcon</h6>
@@ -443,7 +509,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -465,14 +532,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">International Technology Summit Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Karin Dnox</h6>
@@ -482,7 +552,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>David Russell</h6>
@@ -490,7 +561,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -499,7 +571,8 @@
                     </div>
                 </div>
                 <!-- tab 2 -->
-                <div class="tab-pane fade" id="pills-schedule2" role="tabpanel" aria-labelledby="pills-schedule-tab2" tabindex="0">
+                <div class="tab-pane fade" id="pills-schedule2" role="tabpanel" aria-labelledby="pills-schedule-tab2"
+                    tabindex="0">
                     <div class="row g-4">
                         <div class="col-lg-12">
                             <div class="schedule-item">
@@ -517,14 +590,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">Business World Event Introduction</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/01.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Frederick Taylor</h6>
@@ -534,7 +610,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Tony Mendoza</h6>
@@ -542,7 +619,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -564,14 +642,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">Introduction Digital Technology Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Bryan Credle</h6>
@@ -581,7 +662,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/04.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Helene Falcon</h6>
@@ -589,7 +671,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -611,14 +694,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">International Technology Summit Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Karin Dnox</h6>
@@ -628,7 +714,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>David Russell</h6>
@@ -636,7 +723,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -645,7 +733,8 @@
                     </div>
                 </div>
                 <!-- tab 3 -->
-                <div class="tab-pane fade" id="pills-schedule3" role="tabpanel" aria-labelledby="pills-schedule-tab3" tabindex="0">
+                <div class="tab-pane fade" id="pills-schedule3" role="tabpanel" aria-labelledby="pills-schedule-tab3"
+                    tabindex="0">
                     <div class="row g-4">
                         <div class="col-lg-12">
                             <div class="schedule-item">
@@ -663,14 +752,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">Business World Event Introduction</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/01.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Frederick Taylor</h6>
@@ -680,7 +772,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Tony Mendoza</h6>
@@ -688,7 +781,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -710,14 +804,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">Introduction Digital Technology Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Bryan Credle</h6>
@@ -727,7 +824,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/04.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Helene Falcon</h6>
@@ -735,7 +833,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -757,14 +856,17 @@
                                                 </ul>
                                             </div>
                                             <h4><a href="#">International Technology Summit Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable.</p>
+                                            <p>There are many variations of passages available but the majority have
+                                                suffered alteration in some form by injected humour, or randomised words
+                                                which don't look even slightly believable.</p>
                                         </div>
                                         <div class="schedule-bottom">
                                             <div class="schedule-speaker">
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>Karin Dnox</h6>
@@ -774,7 +876,8 @@
                                                 <div class="speaker-item">
                                                     <div class="speaker-img">
                                                         <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i class="far fa-microphone-lines"></i></span>
+                                                        <span class="speaker-img-icon"><i
+                                                                class="far fa-microphone-lines"></i></span>
                                                     </div>
                                                     <div class="speaker-info">
                                                         <h6>David Russell</h6>
@@ -782,7 +885,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i class="fas fa-arrow-right"></i></a>
+                                            <a href="#" class="theme-btn">Buy Tickets<i
+                                                    class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -808,7 +912,8 @@
                                 We inspire people to be creative enough.
                             </h2>
                         </div>
-                        <p class="text-white">There are many variations of passages the majority have suffered alteration
+                        <p class="text-white">There are many variations of passages the majority have suffered
+                            alteration
                             in some form slightly believable. If you are going to use a passage of need to be sure.</p>
                     </div>
                 </div>
@@ -1111,7 +1216,8 @@
                 <div class="col-lg-8 mx-auto">
                     <div class="cta-content wow fadeInUp" data-wow-delay=".25s">
                         <h1>Are you want to join our events ?</h1>
-                        <p>It is a long established fact that a reader will be distracted by the readable <br> content of a page when looking at its layout.</p>
+                        <p>It is a long established fact that a reader will be distracted by the readable <br> content
+                            of a page when looking at its layout.</p>
                         <a href="#" class="theme-btn">Register Now<i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -1555,7 +1661,8 @@
                         <div class="quote-head">
                             <h3>Register Now</h3>
                             <p>It is a long established fact that a reader will be distracted by the
-                                readable content of majority have suffered alteration page when looking at its layout.</p>
+                                readable content of majority have suffered alteration page when looking at its layout.
+                            </p>
                         </div>
                         <div class="quote-form">
                             <form action="#">
@@ -1597,7 +1704,8 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <button type="submit" class="theme-btn">Register Now<i class="fas fa-arrow-right"></i></button>
+                                        <button type="submit" class="theme-btn">Register Now<i
+                                                class="fas fa-arrow-right"></i></button>
                                     </div>
                                 </div>
                             </form>
@@ -1753,14 +1861,14 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="input-group">
-                                    <input type="text" class="form-control" name="location"
-                                        placeholder="Location" required>
+                                    <input type="text" class="form-control" name="location" placeholder="Location"
+                                        required>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="input-group">
-                                    <input type="text" class="form-control" name="website"
-                                        placeholder="Website" required>
+                                    <input type="text" class="form-control" name="website" placeholder="Website"
+                                        required>
                                 </div>
                             </div>
                             <div class="col-md-6">

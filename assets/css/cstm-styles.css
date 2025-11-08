@@ -26,9 +26,11 @@
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.4); /* dark overlay for better readability */
+  background: rgba(0, 0, 0, 0.4);
+  /* dark overlay for better readability */
   z-index: 1;
 }
+
 .bannerSectionWrapper {
   padding-top: 150px;
   padding-bottom: 160px;
@@ -39,6 +41,7 @@
 .about-text {
   text-align: justify;
 }
+
 .innerPageBannerContainer {
   background: url(../esol/images/common/inner-bg.png);
 }
@@ -100,12 +103,15 @@
     transform: translateY(100vh) translateX(0) rotate(0deg);
     opacity: 0;
   }
+
   10% {
     opacity: 0.6;
   }
+
   90% {
     opacity: 0.6;
   }
+
   100% {
     transform: translateY(-100px) translateX(100px) rotate(360deg);
     opacity: 0;
@@ -306,10 +312,12 @@
 }
 
 @keyframes float-decoration {
+
   0%,
   100% {
     transform: translateY(0);
   }
+
   50% {
     transform: translateY(-30px);
   }
@@ -588,9 +596,42 @@
   color: var(--color-dark);
   opacity: 0.8;
 }
+
 .catNomiDiv input[type="checkbox"] {
   /* color: var(--color-dark); */
   width: 15px;
   height: 15px;
 }
+
 /* end nomination form */
+
+/* why attend  */
+.feature-item p {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  /* show only 3 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  /* max-height: 3em; */
+  /* roughly 2 lines */
+}
+
+.feature-item:hover p {
+  -webkit-line-clamp: unset;
+  /* remove the clamp */
+  max-height: none;
+  overflow: visible;
+  background: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-icon i {
+  font-size: 70px;
+  color: #005edf;
+}
+
+/* end why attend  */
