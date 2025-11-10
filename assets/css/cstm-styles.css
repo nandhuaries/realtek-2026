@@ -312,7 +312,6 @@
 }
 
 @keyframes float-decoration {
-
   0%,
   100% {
     transform: translateY(0);
@@ -635,3 +634,184 @@
 }
 
 /* end why attend  */
+
+/* conference section */
+.summit-section {
+  position: relative;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, var(--theme-color) 0%, #0d1a4a 100%);
+  overflow: hidden;
+}
+
+.summit-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at 20% 50%, rgba(0, 94, 223, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(0, 94, 223, 0.15) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.summit-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+.summit-header {
+  text-align: center;
+  margin-bottom: 80px;
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.summit-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  background: linear-gradient(135deg, var(--theme-color2), #0077ff);
+  color: #fff;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.summit-title {
+  font-size: 56px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+
+.summit-title-highlight {
+  background: linear-gradient(135deg, var(--theme-color2), #00c8ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.summit-description {
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.85);
+  max-width: 900px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+.summit-content-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 24px;
+  padding: 60px;
+  margin-top: 60px;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.summit-content-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--theme-color2), #00c8ff);
+}
+
+.summit-content-card:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(0, 94, 223, 0.3);
+  box-shadow: 0 20px 60px rgba(0, 94, 223, 0.2);
+}
+
+.content-text {
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.9;
+  text-align: justify;
+}
+
+.organizer-tag {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 12px 28px;
+  background: rgba(0, 94, 223, 0.15);
+  border: 1px solid rgba(0, 94, 223, 0.3);
+  border-radius: 50px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.organizer-name {
+  color: var(--theme-color2);
+  font-weight: 600;
+}
+
+.location-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 15px;
+  padding: 12px 28px;
+  background: linear-gradient(135deg, rgba(0, 94, 223, 0.2), rgba(0, 94, 223, 0.1));
+  border: 1px solid rgba(0, 94, 223, 0.4);
+  border-radius: 50px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.location-icon {
+  font-size: 18px;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .summit-section {
+    padding: 60px 20px;
+  }
+
+  .summit-title {
+    font-size: 36px;
+  }
+
+  .summit-description {
+    font-size: 16px;
+  }
+
+  .summit-content-card {
+    padding: 40px 30px;
+  }
+
+  .content-text {
+    font-size: 16px;
+    text-align: left;
+  }
+
+  .organizer-tag,
+  .location-badge {
+    margin: 10px 5px;
+    display: inline-block;
+  }
+}
+/* end conference section */

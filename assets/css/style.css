@@ -3293,10 +3293,19 @@ label {
   background: var(--theme-color);
   text-align: center;
   box-shadow: var(--box-shadow);
+  /*  */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*  */
 }
 
 .choose-item-icon img {
   width: 35px;
+  filter: brightness(0) invert(1);
+}
+.choose-item-icon i {
+  font-size: 30px;
   filter: brightness(0) invert(1);
 }
 
@@ -3305,8 +3314,10 @@ label {
 }
 
 .choose-item-info {
+  display: flex;
+  align-items: center;
   border-bottom: 1px solid var(--border-info-color);
-  padding-bottom: 20px;
+  /* padding-bottom: 20px; */
   flex: 1;
 }
 

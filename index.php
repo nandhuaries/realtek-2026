@@ -357,630 +357,149 @@
     </div>
     <!-- feature area end -->
 
-
-    <!-- schedule area -->
-    <div class="schedule-area py-120">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="site-heading text-center wow fadeInDown" data-wow-delay=".25s">
-                        <span class="site-title-tagline">Event Schedule</span>
-                        <h2 class="site-title">Our Events <span>Schedule</span> Plan</h2>
-                        <div class="site-shadow-text">Schedule</div>
-                    </div>
-                </div>
-            </div>
-            <div class="schedule-nav wow fadeInUp" data-wow-delay=".25s">
-                <ul class="nav nav-pills" id="pills-tab-schedule" role="tablist">
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="pills-schedule-tab1" data-bs-toggle="pill"
-                            data-bs-target="#pills-schedule1" type="button" role="tab" aria-controls="pills-schedule1"
-                            aria-selected="true">
-                            <span class="icon"><i class="fal fa-calendar-days"></i></span>
-                            <span class="content">
-                                <span class="day">Day 01</span>
-                                <span class="date">May 25, 2024</span>
-                            </span>
-                        </button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-schedule-tab2" data-bs-toggle="pill"
-                            data-bs-target="#pills-schedule2" type="button" role="tab" aria-controls="pills-schedule2"
-                            aria-selected="false">
-                            <span class="icon"><i class="fal fa-calendar-days"></i></span>
-                            <span class="content">
-                                <span class="day">Day 02</span>
-                                <span class="date">May 26, 2024</span>
-                            </span>
-                        </button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-schedule-tab3" data-bs-toggle="pill"
-                            data-bs-target="#pills-schedule3" type="button" role="tab" aria-controls="pills-schedule3"
-                            aria-selected="false">
-                            <span class="icon"><i class="fal fa-calendar-days"></i></span>
-                            <span class="content">
-                                <span class="day">Day 03</span>
-                                <span class="date">May 27, 2024</span>
-                            </span>
-                        </button>
-                    </li>
-                </ul>
-            </div>
-            <div class="tab-content wow fadeInUp" data-wow-delay=".25s" id="pills-tabContent-schedule">
-                <!-- tab 1 -->
-                <div class="tab-pane fade show active" id="pills-schedule1" role="tabpanel"
-                    aria-labelledby="pills-schedule-tab1" tabindex="0">
-                    <div class="row g-4">
-                        <div class="col-lg-12">
-                            <div class="schedule-item">
-                                <span class="schedule-count">01</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/01.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">Business World Event Introduction</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/01.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Frederick Taylor</h6>
-                                                        <span>UX Designer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Tony Mendoza</h6>
-                                                        <span>Developer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="schedule-item">
-                                <span class="schedule-count">02</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/02.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">Introduction Digital Technology Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Bryan Credle</h6>
-                                                        <span>Technology Officer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/04.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Helene Falcon</h6>
-                                                        <span>Operations Officer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="schedule-item last">
-                                <span class="schedule-count">03</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/03.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">International Technology Summit Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Karin Dnox</h6>
-                                                        <span>Software Engineer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>David Russell</h6>
-                                                        <span>Product Designer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- tab 2 -->
-                <div class="tab-pane fade" id="pills-schedule2" role="tabpanel" aria-labelledby="pills-schedule-tab2"
-                    tabindex="0">
-                    <div class="row g-4">
-                        <div class="col-lg-12">
-                            <div class="schedule-item">
-                                <span class="schedule-count">01</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/01.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">Business World Event Introduction</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/01.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Frederick Taylor</h6>
-                                                        <span>UX Designer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Tony Mendoza</h6>
-                                                        <span>Developer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="schedule-item">
-                                <span class="schedule-count">02</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/02.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">Introduction Digital Technology Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Bryan Credle</h6>
-                                                        <span>Technology Officer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/04.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Helene Falcon</h6>
-                                                        <span>Operations Officer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="schedule-item last">
-                                <span class="schedule-count">03</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/03.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">International Technology Summit Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Karin Dnox</h6>
-                                                        <span>Software Engineer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>David Russell</h6>
-                                                        <span>Product Designer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- tab 3 -->
-                <div class="tab-pane fade" id="pills-schedule3" role="tabpanel" aria-labelledby="pills-schedule-tab3"
-                    tabindex="0">
-                    <div class="row g-4">
-                        <div class="col-lg-12">
-                            <div class="schedule-item">
-                                <span class="schedule-count">01</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/01.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">Business World Event Introduction</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/01.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Frederick Taylor</h6>
-                                                        <span>UX Designer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Tony Mendoza</h6>
-                                                        <span>Developer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="schedule-item">
-                                <span class="schedule-count">02</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/02.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">Introduction Digital Technology Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Bryan Credle</h6>
-                                                        <span>Technology Officer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/04.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Helene Falcon</h6>
-                                                        <span>Operations Officer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="schedule-item last">
-                                <span class="schedule-count">03</span>
-                                <div class="schedule-content-wrap">
-                                    <div class="schedule-img">
-                                        <img src="assets/img/schedule/03.jpg" alt="">
-                                    </div>
-                                    <div class="schedule-content">
-                                        <div class="schedule-info">
-                                            <div class="schedule-meta">
-                                                <ul>
-                                                    <li><i class="far fa-clock"></i> 10.00 AM - 12.00 PM</li>
-                                                    <li><i class="far fa-location-dot"></i> 25/B Milford, New York</li>
-                                                </ul>
-                                            </div>
-                                            <h4><a href="#">International Technology Summit Conference.</a></h4>
-                                            <p>There are many variations of passages available but the majority have
-                                                suffered alteration in some form by injected humour, or randomised words
-                                                which don't look even slightly believable.</p>
-                                        </div>
-                                        <div class="schedule-bottom">
-                                            <div class="schedule-speaker">
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/02.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>Karin Dnox</h6>
-                                                        <span>Software Engineer</span>
-                                                    </div>
-                                                </div>
-                                                <div class="speaker-item">
-                                                    <div class="speaker-img">
-                                                        <img src="assets/img/speaker/03.jpg" alt="">
-                                                        <span class="speaker-img-icon"><i
-                                                                class="far fa-microphone-lines"></i></span>
-                                                    </div>
-                                                    <div class="speaker-info">
-                                                        <h6>David Russell</h6>
-                                                        <span>Product Designer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <a href="#" class="theme-btn">Buy Tickets<i
-                                                    class="fas fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- schedule area end -->
-
-
     <!-- counter area -->
-    <div class="counter-area pt-80 pb-80">
+    <div class="counter-area pt-80 pb-80 mt-120">
         <div class="container">
-            <div class="row g-4 align-items-center">
-                <div class="col-lg-5">
+            <div class="row align-items-center">
+                <div class="col-12">
                     <div class="counter-info">
                         <div class="site-heading mb-3">
-                            <span class="site-title-tagline text-white">Fun Fact</span>
+                            <!-- <span class="site-title-tagline text-white">Fun Fact</span> -->
                             <h2 class="site-title text-white">
-                                We inspire people to be creative enough.
+                                RealTek Awards – Dubai 2026
                             </h2>
                         </div>
-                        <p class="text-white">There are many variations of passages the majority have suffered
-                            alteration
-                            in some form slightly believable. If you are going to use a passage of need to be sure.</p>
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="row g-4 justify-content-center">
-                        <div class="col-md-6">
-                            <div class="counter-box wow fadeInUp" data-wow-delay=".25s">
-                                <div class="icon">
-                                    <img src="assets/img/icon/workshop.svg" alt="">
-                                </div>
-                                <div class="counter-content">
-                                    <div class="counter-info">
-                                        <span class="counter" data-count="+" data-to="150" data-speed="3000">150</span>
-                                        <span class="counter-unit">+</span>
-                                    </div>
-                                    <h6 class="title">Unique Workshops</h6>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="counter-box wow fadeInDown" data-wow-delay=".25s">
-                                <div class="icon">
-                                    <img src="assets/img/icon/participant.svg" alt="">
-                                </div>
-                                <div class="counter-content">
-                                    <div class="counter-info">
-                                        <span class="counter" data-count="+" data-to="260" data-speed="3000">260</span>
-                                        <span class="counter-unit">K</span>
-                                    </div>
-                                    <h6 class="title">Event Participants</h6>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="counter-box wow fadeInUp" data-wow-delay=".25s">
-                                <div class="icon">
-                                    <img src="assets/img/icon/speaker-2.svg" alt="">
-                                </div>
-                                <div class="counter-content">
-                                    <div class="counter-info">
-                                        <span class="counter" data-count="+" data-to="120" data-speed="3000">120</span>
-                                        <span class="counter-unit">+</span>
-                                    </div>
-                                    <h6 class="title">Skilled Speakers</h6>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="counter-box wow fadeInDown" data-wow-delay=".25s">
-                                <div class="icon">
-                                    <img src="assets/img/icon/award.svg" alt="">
-                                </div>
-                                <div class="counter-content">
-                                    <div class="counter-info">
-                                        <span class="counter" data-count="+" data-to="50" data-speed="3000">50</span>
-                                        <span class="counter-unit">+</span>
-                                    </div>
-                                    <h6 class="title">Win Awards</h6>
-                                </div>
-                            </div>
-                        </div>
+                        <p class="text-white">
+                            Welcome to the 4th Edition of the RealTek Awards! Returning to Dubai, UAE, on 24 September 2026, this prestigious event celebrates the exceptional achievements driving progress in the real estate sector.
+                        </p>
+                        <p class="text-white">
+                            Honoring innovation, resilience, and leadership, the RealTek Awards recognize individuals and organizations that have made outstanding contributions to shaping the industry over the past year.
+                        </p>
+                        <p class="text-white">
+                            Join us for an unforgettable evening dedicated to celebrating excellence and innovation in real estate.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- counter area end -->
+
+    <section class="summit-section">
+        <div class="summit-container">
+            <div class="summit-header">
+                <div class="summit-badge">Annual Conference & Awards</div>
+                <h1 class="summit-title">
+                    The <span class="summit-title-highlight">RealTek Summit</span>
+                </h1>
+            </div>
+
+            <div class="summit-content-card">
+                <p class="content-text">
+                    The RealTek Summit is an annual conference and awards event for the real estate and construction industry, organized by Biz Events Management, most recently held in Dubai. The event gathers industry leaders, innovators, investors, and entrepreneurs to discuss trends, share insights on technology like AI and predictive analytics, and network. It includes a full-day conference program with panel discussions and sessions, followed by an awards ceremony to recognize excellence in the sector.
+                </p>
+                <div style="margin-top: 30px; text-align: center;">
+                    <div class="organizer-tag">
+                        Organized by <span class="organizer-name">Biz Events Management</span>
+                    </div>
+                    <div class="location-badge">
+                        <span class="location-icon">📍</span>
+                        Dubai
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- choose area -->
+    <div class="choose-area py-100">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="choose-img wow fadeInLeft" data-wow-delay=".25s">
+                        <img src="assets/img/choose/01.jpg" alt="">
+                        <a href="#" class="theme-btn">Register Now <i class="far fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="choose-content wow fadeInUp" data-wow-delay=".25s">
+                        <div class="choose-content-wrap">
+                            <h2 class="site-title mb-10">Book Your Space</h2>
+                            <div class="choose-item">
+                                <div class="choose-item-icon">
+                                    <i class="fa-solid fa-calendar-check"></i>
+                                </div>
+                                <div class="choose-item-info">
+                                    <h4>Book Your Stand</h4>
+                                </div>
+                            </div>
+
+                            <div class="choose-item">
+                                <div class="choose-item-icon">
+                                    <i class="fa-solid fa-location-dot"></i>
+                                </div>
+                                <div class="choose-item-info">
+                                    <h4>Participating Sectors</h4>
+                                </div>
+                            </div>
+
+                            <div class="choose-item">
+                                <div class="choose-item-icon">
+                                    <i class="fa-solid fa-lightbulb"></i>
+                                </div>
+                                <div class="choose-item-info">
+                                    <h4>Exhibitors</h4>
+                                </div>
+                            </div>
+
+                            <!-- <div class="choose-item">
+                                <div class="choose-item-icon">
+                                    <img src="assets/img/icon/event.svg" alt="">
+                                </div>
+                                <div class="choose-item-info">
+                                    <h4>Book Your Stand</h4>
+                                </div>
+                            </div>
+                            <div class="choose-item">
+                                <div class="choose-item-icon">
+                                    <img src="assets/img/icon/location.svg" alt="">
+                                </div>
+                                <div class="choose-item-info">
+                                    <h4>Participating Sectorss</h4>
+                                </div>
+                            </div>
+                            <div class="choose-item">
+                                <div class="choose-item-icon">
+                                    <img src="assets/img/icon/idea.svg" alt="">
+                                </div>
+                                <div class="choose-item-info">
+                                    <h4>Exhibitors</h4>
+                                </div>
+                            </div> -->
+                        </div>
+                        <div class="site-heading mb-0">
+                            <span class="site-title-tagline pt-3">Why Exhibit</span>
+                            <!-- <h2 class="site-title mb-10">Book Your Space</h2> -->
+                            <p>
+                                The RealTek 2026 is Dubai’s premier platform for all real estate matters, bringing together leading local and international industry players. More than just an exhibition, RealTek serves as a comprehensive marketplace where buyers can access exclusive property deals and investment opportunities under one roof.
+                            </p>
+                            <p>
+                                As the hub of real estate activity, RealTek empowers participants to elevate their brand visibility and tap into global markets. Exhibiting at this prestigious international event offers a wealth of benefits, including:
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-12 pt-5">
+                    <p>
+                        Seize the opportunity to showcase your brand, expand your network, and drive business growth at the RealTek Summit Dubai 2026 — the ultimate destination for real estate excellence.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- choose area end -->
 
 
     <!-- pricing area -->
@@ -1226,65 +745,6 @@
     </div>
     <!-- cta area end -->
 
-
-    <!-- choose area -->
-    <div class="choose-area py-100">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="choose-img wow fadeInLeft" data-wow-delay=".25s">
-                        <img src="assets/img/choose/01.jpg" alt="">
-                        <a href="#" class="theme-btn">Learn More <i class="far fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="choose-content wow fadeInUp" data-wow-delay=".25s">
-                        <div class="site-heading mb-0">
-                            <span class="site-title-tagline">Why Join</span>
-                            <h2 class="site-title mb-10">Why You Should Join Our Event ?</h2>
-                            <p>
-                                It is a long established fact that a reader will be distracted by the readable
-                                content of a page when looking at its layout.
-                            </p>
-                        </div>
-                        <div class="choose-content-wrap">
-                            <div class="choose-item">
-                                <div class="choose-item-icon">
-                                    <img src="assets/img/icon/event.svg" alt="">
-                                </div>
-                                <div class="choose-item-info">
-                                    <h4>Interactive Sessions</h4>
-                                    <p>There are many variations of the passages available suffered.</p>
-                                </div>
-                            </div>
-                            <div class="choose-item">
-                                <div class="choose-item-icon">
-                                    <img src="assets/img/icon/location.svg" alt="">
-                                </div>
-                                <div class="choose-item-info">
-                                    <h4>Massive Locations</h4>
-                                    <p>There are many variations of the passages available suffered.</p>
-                                </div>
-                            </div>
-                            <div class="choose-item">
-                                <div class="choose-item-icon">
-                                    <img src="assets/img/icon/idea.svg" alt="">
-                                </div>
-                                <div class="choose-item-info">
-                                    <h4>Implement Your Idea</h4>
-                                    <p>There are many variations of the passages available suffered.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!-- choose area end -->
-
-
     <!-- testimonial-area -->
     <div class="testimonial-area bg py-90">
         <div class="container">
@@ -1469,36 +929,6 @@
         </div>
     </div>
     <!-- gallery-area end -->
-
-
-    <!-- partner area -->
-    <div class="partner-area partner-bg py-80">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="site-heading text-center wow fadeInDown" data-wow-delay=".25s">
-                        <span class="site-title-tagline">Sponsors</span>
-                        <h2 class="site-title">Let's Check Our <span>Sponsors</span></h2>
-                    </div>
-                </div>
-            </div>
-
-            <div class="partner-wrapper wow fadeInUp" data-wow-delay=".25s">
-                <div class="row g-5 justify-content-center">
-                    <div class="col-6 col-md-2">
-                        <img src="assets/img/partner/01.png" alt="thumb">
-                    </div>
-                    <div class="col-6 col-md-2">
-                        <img src="assets/img/partner/02.png" alt="thumb">
-                    </div>
-                </div>
-            </div>
-            <div class="text-center mt-40 wow fadeInUp" data-wow-delay=".25s">
-                <a href="#" class="theme-btn"><span class="fal fa-users"></span> Become Sponsors</a>
-            </div>
-        </div>
-    </div>
-    <!-- partner area end -->
 
 
     <!-- previous Sponsors -->
