@@ -554,7 +554,7 @@
     <!-- choose area end -->
 
     <!-- cta area -->
-    <div class="cta-area pt-60 pb-60" style="background-image: url(assets/img/cta/01.jpg);">
+    <div class="cta-area pt-60 pb-60" style="background-image: url(assets/esol/images/common/why-atttend.png);background-attachment: fixed;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
@@ -588,8 +588,18 @@
                         <div class="col-12">
                             <div class="gallery-item wow fadeInDown" data-wow-delay=".25s">
                                 <div class="gallery-img">
-                                    <img src="assets/img/gallery/02.jpg" alt="">
-                                    <a class="popup-img gallery-link" href="assets/img/gallery/02.jpg"><i
+                                    <img src="assets/esol/images/common/realtek-gallery-1.png" alt="">
+                                    <a class="popup-img gallery-link" href="assets/esol/images/common/realtek-gallery-1.png"><i
+                                            class="fal fa-plus"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="gallery-item wow fadeInDown" data-wow-delay=".25s">
+                                <div class="gallery-img">
+                                    <img src="assets/esol/images/common/realtek-gallery-3.png" alt="">
+                                    <a class="popup-img gallery-link" href="assets/esol/images/common/realtek-gallery-3.png"><i
                                             class="fal fa-plus"></i></a>
                                 </div>
                             </div>
@@ -597,17 +607,8 @@
                         <div class="col-6">
                             <div class="gallery-item wow fadeInDown" data-wow-delay=".25s">
                                 <div class="gallery-img">
-                                    <img src="assets/img/gallery/03.jpg" alt="">
-                                    <a class="popup-img gallery-link" href="assets/img/gallery/03.jpg"><i
-                                            class="fal fa-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-6">
-                            <div class="gallery-item wow fadeInDown" data-wow-delay=".25s">
-                                <div class="gallery-img">
-                                    <img src="assets/img/gallery/04.jpg" alt="">
-                                    <a class="popup-img gallery-link" href="assets/img/gallery/04.jpg"><i
+                                    <img src="assets/esol/images/common/realtek-gallery-4.png" alt="">
+                                    <a class="popup-img gallery-link" href="assets/esol/images/common/realtek-gallery-4.png"><i
                                             class="fal fa-plus"></i></a>
                                 </div>
                             </div>
@@ -617,8 +618,8 @@
                 <div class="col-md-5">
                     <div class="gallery-item wow fadeInUp" data-wow-delay=".25s">
                         <div class="gallery-img">
-                            <img src="assets/img/gallery/01.jpg" alt="">
-                            <a class="popup-img gallery-link" href="assets/img/gallery/01.jpg"><i
+                            <img src="assets/esol/images/common/realtek-gallery-2.png" alt="">
+                            <a class="popup-img gallery-link" href="assets/esol/images/common/realtek-gallery-2.png"><i
                                     class="fal fa-plus"></i>
                             </a>
                         </div>
