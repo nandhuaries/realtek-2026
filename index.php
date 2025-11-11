@@ -385,6 +385,48 @@
     </div>
     <!-- counter area end -->
 
+    <!-- previous Sponsors -->
+    <div class="particles-wrapper">
+        <!-- Particles Container -->
+        <div class="particles-container" id="particlesContainer"></div>
+
+        <!-- Main Content -->
+        <section class="sponsors-section">
+            <div class="sponsor-section-title-wrapper">
+                <h2 class="sponsor-section-title">Our Previous Sponsors</h2>
+                <p class="section-subtitle">Trusted by leading brands and companies worldwide</p>
+            </div>
+
+            <div class="sponsor-carousel-wrapper">
+                <div class="owl-carousel owl-theme sponsor-carousel">
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/1.png" alt="Sponsor 1">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/2.png" alt="Sponsor 2">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/3.png" alt="Sponsor 3">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/4.png" alt="Sponsor 4">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/5.png" alt="Sponsor 5">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/6.png" alt="Sponsor 6">
+                    </div>
+                </div>
+
+                <!-- Custom Navigation -->
+                <button class="custom-nav-btn custom-nav-prev">‹</button>
+                <button class="custom-nav-btn custom-nav-next">›</button>
+            </div>
+        </section>
+    </div>
+    <!-- end previous Sponsors -->
+
     <section class="summit-section">
         <div class="summit-container">
             <div class="summit-header">
@@ -411,13 +453,50 @@
         </div>
     </section>
 
+    <!-- past speaker -->
+    <section class="speakers-section-wrapper">
+        <!-- Background Decorations -->
+        <div class="bg-decoration bg-decoration-1"></div>
+        <div class="bg-decoration bg-decoration-2"></div>
+        <div class="bg-decoration bg-decoration-3"></div>
+
+        <div class="speakers-container">
+            <!-- Section Header -->
+            <div class="speakers-header">
+                <span class="speakers-subtitle">Industry Leaders</span>
+                <h2 class="speakers-main-title">Our Past Speakers</h2>
+                <p class="speakers-description">
+                    Learn from the best minds in real estate, technology, and innovation.
+                    Our speakers bring decades of experience and cutting-edge insights.
+                </p>
+            </div>
+
+            <!-- Speakers Carousel -->
+            <div class="speakers-carousel-container">
+                <div class="owl-carousel owl-theme speakers-carousel" id="speakersCarousel"></div>
+
+                <!-- Custom Navigation -->
+                <button class="speakers-nav-btn speakers-nav-prev">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+                <button class="speakers-nav-btn speakers-nav-next">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+
+                <!-- Custom Dots -->
+                <div class="speakers-dots-wrapper" id="speakerDots"></div>
+            </div>
+        </div>
+    </section>
+    <!-- end past speaker -->
+
     <!-- choose area -->
     <div class="choose-area py-100">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="choose-img wow fadeInLeft" data-wow-delay=".25s">
-                        <img src="assets/img/choose/01.jpg" alt="">
+                        <img src="assets/esol/images/common/book-space.png" alt="">
                         <a href="#" class="theme-btn">Register Now <i class="far fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -451,31 +530,6 @@
                                     <h4>Exhibitors</h4>
                                 </div>
                             </div>
-
-                            <!-- <div class="choose-item">
-                                <div class="choose-item-icon">
-                                    <img src="assets/img/icon/event.svg" alt="">
-                                </div>
-                                <div class="choose-item-info">
-                                    <h4>Book Your Stand</h4>
-                                </div>
-                            </div>
-                            <div class="choose-item">
-                                <div class="choose-item-icon">
-                                    <img src="assets/img/icon/location.svg" alt="">
-                                </div>
-                                <div class="choose-item-info">
-                                    <h4>Participating Sectorss</h4>
-                                </div>
-                            </div>
-                            <div class="choose-item">
-                                <div class="choose-item-icon">
-                                    <img src="assets/img/icon/idea.svg" alt="">
-                                </div>
-                                <div class="choose-item-info">
-                                    <h4>Exhibitors</h4>
-                                </div>
-                            </div> -->
                         </div>
                         <div class="site-heading mb-0">
                             <span class="site-title-tagline pt-3">Why Exhibit</span>
@@ -487,7 +541,6 @@
                                 As the hub of real estate activity, RealTek empowers participants to elevate their brand visibility and tap into global markets. Exhibiting at this prestigious international event offers a wealth of benefits, including:
                             </p>
                         </div>
-
                     </div>
                 </div>
                 <div class="col-12 pt-5">
@@ -495,238 +548,10 @@
                         Seize the opportunity to showcase your brand, expand your network, and drive business growth at the RealTek Summit Dubai 2026 — the ultimate destination for real estate excellence.
                     </p>
                 </div>
-
             </div>
         </div>
     </div>
     <!-- choose area end -->
-
-
-    <!-- pricing area -->
-    <div class="pricing-area bg pt-70 pb-80">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="site-heading text-center wow fadeInDown" data-wow-delay=".25s">
-                        <span class="site-title-tagline">Tickets Price</span>
-                        <h2 class="site-title">Choose Your Right <span>Tickets <br> Pricing </span> Plan</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5">
-                <div class="col-md-6 col-lg-4">
-                    <div class="pricing-item wow fadeInUp" data-wow-delay=".25s">
-                        <div class="pricing-shape">
-                            <img src="assets/img/shape/03.png" alt="">
-                        </div>
-                        <div class="pricing-header">
-                            <h5>Basic</h5>
-                        </div>
-                        <div class="pricing-amount">
-                            <strong>$80.00</strong>
-                        </div>
-                        <div class="pricing-feature">
-                            <ul>
-                                <li><i class="fas fa-check-circle"></i>Full event access</li>
-                                <li><i class="fas fa-check-circle"></i>Exclusive Q & A sessions</li>
-                                <li><i class="fas fa-check-circle"></i>Reserved seating for your comfort</li>
-                                <li><i class="fas fa-check-circle"></i>Ask question privately</li>
-                                <li><i class="fas fa-check-circle"></i>Tea and Cofee Break</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-btn-wrap">
-                            <a href="#" class="theme-btn">Purchase Now <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="pricing-item wow fadeInDown" data-wow-delay=".25s">
-                        <div class="pricing-shape">
-                            <img src="assets/img/shape/03.png" alt="">
-                        </div>
-                        <div class="pricing-header">
-                            <h5>Standard</h5>
-                        </div>
-                        <div class="pricing-amount">
-                            <strong>$120.00</strong>
-                        </div>
-                        <div class="pricing-feature">
-                            <ul>
-                                <li><i class="fas fa-check-circle"></i>Full event access</li>
-                                <li><i class="fas fa-check-circle"></i>Exclusive Q & A sessions</li>
-                                <li><i class="fas fa-check-circle"></i>Reserved seating for your comfort</li>
-                                <li><i class="fas fa-check-circle"></i>Ask question privately</li>
-                                <li><i class="fas fa-check-circle"></i>Tea and Cofee Break</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-btn-wrap">
-                            <a href="#" class="theme-btn">Purchase Now <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="pricing-item wow fadeInUp" data-wow-delay=".25s">
-                        <div class="pricing-shape">
-                            <img src="assets/img/shape/03.png" alt="">
-                        </div>
-                        <div class="pricing-header">
-                            <h5>Premium</h5>
-                        </div>
-                        <div class="pricing-amount">
-                            <strong>$150.00</strong>
-                        </div>
-                        <div class="pricing-feature">
-                            <ul>
-                                <li><i class="fas fa-check-circle"></i>Full event access</li>
-                                <li><i class="fas fa-check-circle"></i>Exclusive Q & A sessions</li>
-                                <li><i class="fas fa-check-circle"></i>Reserved seating for your comfort</li>
-                                <li><i class="fas fa-check-circle"></i>Ask question privately</li>
-                                <li><i class="fas fa-check-circle"></i>Tea and Cofee Break</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-btn-wrap">
-                            <a href="#" class="theme-btn">Purchase Now <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- pricing area end -->
-
-
-    <!-- speaker area -->
-    <div class="team-area py-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="site-heading text-center wow fadeInDown" data-wow-delay=".25s">
-                        <span class="site-title-tagline">Speakers</span>
-                        <h2 class="site-title">Meet Creative <span>Speakers</span></h2>
-                        <div class="site-shadow-text">Speakers</div>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-4 wow fadeInUp" data-wow-delay=".25s">
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img src="assets/img/speaker/01.jpg" alt="">
-                        </div>
-                        <div class="team-content">
-                            <div class="social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Ronel Smith</a></h4>
-                                <span>UX Deginer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img src="assets/img/speaker/02.jpg" alt="">
-                        </div>
-                        <div class="team-content">
-                            <div class="social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Malissa Fie</a></h4>
-                                <span>UX Deginer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img src="assets/img/speaker/03.jpg" alt="">
-                        </div>
-                        <div class="team-content">
-                            <div class="social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Bodney Rios</a></h4>
-                                <span>UX Deginer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img src="assets/img/speaker/04.jpg" alt="">
-                        </div>
-                        <div class="team-content">
-                            <div class="social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Durton Mary</a></h4>
-                                <span>UX Deginer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img src="assets/img/speaker/05.jpg" alt="">
-                        </div>
-                        <div class="team-content">
-                            <div class="social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Heidi Powers</a></h4>
-                                <span>UX Deginer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="team-item">
-                        <div class="team-img">
-                            <img src="assets/img/speaker/06.jpg" alt="">
-                        </div>
-                        <div class="team-content">
-                            <div class="social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Miller Carla</a></h4>
-                                <span>UX Deginer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- speaker area end -->
-
 
     <!-- cta area -->
     <div class="cta-area pt-60 pb-60" style="background-image: url(assets/img/cta/01.jpg);">
@@ -745,135 +570,8 @@
     </div>
     <!-- cta area end -->
 
-    <!-- testimonial-area -->
-    <div class="testimonial-area bg py-90">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="site-heading text-center wow fadeInDown" data-wow-delay=".25s">
-                        <span class="site-title-tagline">Testimonials</span>
-                        <h2 class="site-title">What Our <span>Guest Say's</span> <br> About Us</h2>
-                        <div class="site-shadow-text">Testimonials</div>
-                    </div>
-                </div>
-            </div>
-            <div class="testimonial-slider owl-carousel owl-theme wow fadeInUp" data-wow-delay=".25s">
-                <div class="testimonial-single">
-                    <div class="testimonial-quote">
-                        <div class="testimonial-rate">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                        <p>
-                            There are many variations of passage available the majority have
-                            suffered to alteration in some form making it look like readable by injected humour.
-                        </p>
-                        <div class="testimonial-quote-icon">
-                            <img src="assets/img/icon/quote.svg" alt="">
-                        </div>
-                    </div>
-                    <div class="testimonial-content">
-                        <div class="testimonial-author-img">
-                            <img src="assets/img/testimonial/01.jpg" alt="">
-                        </div>
-                        <div class="testimonial-author-info">
-                            <h4>Anderson Dele</h4>
-                            <p>Our Guest</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-single">
-                    <div class="testimonial-quote">
-                        <div class="testimonial-rate">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                        <p>
-                            There are many variations of passage available the majority have
-                            suffered to alteration in some form making it look like readable by injected humour.
-                        </p>
-                        <div class="testimonial-quote-icon">
-                            <img src="assets/img/icon/quote.svg" alt="">
-                        </div>
-                    </div>
-                    <div class="testimonial-content">
-                        <div class="testimonial-author-img">
-                            <img src="assets/img/testimonial/02.jpg" alt="">
-                        </div>
-                        <div class="testimonial-author-info">
-                            <h4>Gordon Novak</h4>
-                            <p>Our Guest</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-single">
-                    <div class="testimonial-quote">
-                        <div class="testimonial-rate">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                        <p>
-                            There are many variations of passage available the majority have
-                            suffered to alteration in some form making it look like readable by injected humour.
-                        </p>
-                        <div class="testimonial-quote-icon">
-                            <img src="assets/img/icon/quote.svg" alt="">
-                        </div>
-                    </div>
-                    <div class="testimonial-content">
-                        <div class="testimonial-author-img">
-                            <img src="assets/img/testimonial/03.jpg" alt="">
-                        </div>
-                        <div class="testimonial-author-info">
-                            <h4>Lucille Rucker</h4>
-                            <p>Our Guest</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-single">
-                    <div class="testimonial-quote">
-                        <div class="testimonial-rate">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                        <p>
-                            There are many variations of passage available the majority have
-                            suffered to alteration in some form making it look like readable by injected humour.
-                        </p>
-                        <div class="testimonial-quote-icon">
-                            <img src="assets/img/icon/quote.svg" alt="">
-                        </div>
-                    </div>
-                    <div class="testimonial-content">
-                        <div class="testimonial-author-img">
-                            <img src="assets/img/testimonial/04.jpg" alt="">
-                        </div>
-                        <div class="testimonial-author-info">
-                            <h4>Elizabeth Galvan</h4>
-                            <p>Our Guest</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- testimonial-area end -->
-
-
     <!-- gallery-area -->
-    <div class="gallery-area py-120">
+    <div class="gallery-area pt-120">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -921,231 +619,18 @@
                         <div class="gallery-img">
                             <img src="assets/img/gallery/01.jpg" alt="">
                             <a class="popup-img gallery-link" href="assets/img/gallery/01.jpg"><i
-                                    class="fal fa-plus"></i></a>
+                                    class="fal fa-plus"></i>
+                            </a>
                         </div>
                     </div>
+                </div>
+                <div class="col-12 pt-3 text-center">
+                    <a href="#" class="theme-btn">View More<i class="fas fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
     </div>
     <!-- gallery-area end -->
-
-
-    <!-- previous Sponsors -->
-    <div class="particles-wrapper">
-        <!-- Particles Container -->
-        <div class="particles-container" id="particlesContainer"></div>
-
-        <!-- Main Content -->
-        <section class="sponsors-section">
-            <div class="sponsor-section-title-wrapper">
-                <h2 class="sponsor-section-title">Our Previous Sponsors</h2>
-                <p class="section-subtitle">Trusted by leading brands and companies worldwide</p>
-            </div>
-
-            <div class="sponsor-carousel-wrapper">
-                <div class="owl-carousel owl-theme sponsor-carousel">
-                    <div class="sponsor-logo-item">
-                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/1.png" alt="Sponsor 1">
-                    </div>
-                    <div class="sponsor-logo-item">
-                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/2.png" alt="Sponsor 2">
-                    </div>
-                    <div class="sponsor-logo-item">
-                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/3.png" alt="Sponsor 3">
-                    </div>
-                    <div class="sponsor-logo-item">
-                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/4.png" alt="Sponsor 4">
-                    </div>
-                    <div class="sponsor-logo-item">
-                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/5.png" alt="Sponsor 5">
-                    </div>
-                    <div class="sponsor-logo-item">
-                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/6.png" alt="Sponsor 6">
-                    </div>
-                </div>
-
-                <!-- Custom Navigation -->
-                <button class="custom-nav-btn custom-nav-prev">‹</button>
-                <button class="custom-nav-btn custom-nav-next">›</button>
-            </div>
-        </section>
-    </div>
-    <!-- end previous Sponsors -->
-
-    <!-- past speaker -->
-    <section class="speakers-section-wrapper">
-        <!-- Background Decorations -->
-        <div class="bg-decoration bg-decoration-1"></div>
-        <div class="bg-decoration bg-decoration-2"></div>
-        <div class="bg-decoration bg-decoration-3"></div>
-
-        <div class="speakers-container">
-            <!-- Section Header -->
-            <div class="speakers-header">
-                <span class="speakers-subtitle">Industry Leaders</span>
-                <h2 class="speakers-main-title">Our Past Speakers</h2>
-                <p class="speakers-description">
-                    Learn from the best minds in real estate, technology, and innovation.
-                    Our speakers bring decades of experience and cutting-edge insights.
-                </p>
-            </div>
-
-            <!-- Speakers Carousel -->
-            <div class="speakers-carousel-container">
-                <div class="owl-carousel owl-theme speakers-carousel" id="speakersCarousel"></div>
-
-                <!-- Custom Navigation -->
-                <button class="speakers-nav-btn speakers-nav-prev">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-                <button class="speakers-nav-btn speakers-nav-next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
-
-                <!-- Custom Dots -->
-                <div class="speakers-dots-wrapper" id="speakerDots"></div>
-            </div>
-        </div>
-    </section>
-    <!-- end past speaker -->
-
-    <!-- venue area -->
-    <div class="venue-area py-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="site-heading text-center wow fadeInDown" data-wow-delay=".25s">
-                        <span class="site-title-tagline">Venues</span>
-                        <h2 class="site-title">Explore Our <span>Venues</span></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5 wow fadeInUp" data-wow-delay=".25s">
-                <div class="col-md-6 col-lg-4">
-                    <div class="venue-item">
-                        <div class="venue-img">
-                            <img src="assets/img/venue/01.jpg" alt="">
-                        </div>
-                        <div class="venue-content">
-                            <span>Venue 01</span>
-                            <h6>Marine City Michigan</h6>
-                            <p>New York, USA</p>
-                            <div class="venue-play">
-                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=ckHzmP1evNU">
-                                    <span>Virtual Tour</span>
-                                    <i class="fas fa-play"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="venue-item">
-                        <div class="venue-img">
-                            <img src="assets/img/venue/02.jpg" alt="">
-                        </div>
-                        <div class="venue-content">
-                            <span>Venue 02</span>
-                            <h6>Kansas City Omaha</h6>
-                            <p>New York, USA</p>
-                            <div class="venue-play">
-                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=ckHzmP1evNU">
-                                    <span>Virtual Tour</span>
-                                    <i class="fas fa-play"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="venue-item">
-                        <div class="venue-img">
-                            <img src="assets/img/venue/03.jpg" alt="">
-                        </div>
-                        <div class="venue-content">
-                            <span>Venue 03</span>
-                            <h6>New Hampshire City</h6>
-                            <p>New York, USA</p>
-                            <div class="venue-play">
-                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=ckHzmP1evNU">
-                                    <span>Virtual Tour</span>
-                                    <i class="fas fa-play"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- venue area end -->
-
-
-    <!-- register-area -->
-    <div class="quote-area mt-80 pb-80">
-        <div class="container">
-            <div class="row g-4">
-                <div class="col-lg-7 ms-auto">
-                    <div class="quote-content wow fadeInUp" data-wow-delay=".25s">
-                        <div class="quote-head">
-                            <h3>Register Now</h3>
-                            <p>It is a long established fact that a reader will be distracted by the
-                                readable content of majority have suffered alteration page when looking at its layout.
-                            </p>
-                        </div>
-                        <div class="quote-form">
-                            <form action="#">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="input-group">
-                                            <span class="input-group-text"><i class="far fa-user-tie"></i></span>
-                                            <input type="text" class="form-control" placeholder="Your Name">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="input-group">
-                                            <span class="input-group-text"><i class="far fa-envelope"></i></span>
-                                            <input type="email" class="form-control" placeholder="Your Email">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="input-group">
-                                            <span class="input-group-text"><i class="far fa-phone"></i></span>
-                                            <input type="text" class="form-control" placeholder="Your Phone">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="input-group">
-                                            <span class="input-group-text"><i class="far fa-box"></i></span>
-                                            <select class="select form-select form-control">
-                                                <option value="">Choose Plan</option>
-                                                <option value="1">Plan One</option>
-                                                <option value="2">Plan Two</option>
-                                                <option value="3">Plan Three</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="input-group textarea">
-                                            <span class="input-group-text"><i class="far fa-comment-lines"></i></span>
-                                            <textarea class="form-control" cols="30" rows="4"
-                                                placeholder="Your Message"></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <button type="submit" class="theme-btn">Register Now<i
-                                                class="fas fa-arrow-right"></i></button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- register-area end -->
 
 
     <!-- blog-area -->
@@ -1226,46 +711,6 @@
     </div>
     <!-- blog-area end -->
 
-
-    <!-- instagram -->
-    <div class="instagram-area mb-120 wow fadeInUp" data-wow-delay=".25s">
-        <div class="container">
-            <a href="#" class="theme-btn mt-3"><span class="fab fa-instagram"></span> Follow Us</a>
-            <div class="row g-4">
-                <div class="col-6 col-lg-2">
-                    <div class="instagram-img">
-                        <img src="assets/img/instagram/01.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-6 col-lg-2">
-                    <div class="instagram-img">
-                        <img src="assets/img/instagram/02.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-6 col-lg-2">
-                    <div class="instagram-img">
-                        <img src="assets/img/instagram/03.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-6 col-lg-2">
-                    <div class="instagram-img">
-                        <img src="assets/img/instagram/04.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-6 col-lg-2">
-                    <div class="instagram-img">
-                        <img src="assets/img/instagram/05.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-6 col-lg-2">
-                    <div class="instagram-img">
-                        <img src="assets/img/instagram/06.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- instagram end -->
 
 </main>
 <?php include 'footer.php'; ?>
