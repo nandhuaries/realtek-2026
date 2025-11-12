@@ -815,3 +815,14 @@
   }
 }
 /* end conference section */
+
+.newDesc {
+  display: -webkit-box; /* required for WebKit-based browsers */
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3; /* number of lines to show */
+  overflow: hidden;
+  text-overflow: ellipsis; /* show ... when clipped */
+  /* optional: ensure consistent height if needed */
+  line-height: 1.4; /* adjust to your typography */
+  max-height: calc(1.4em * 3); /* protects layout when line-height differs */
+}

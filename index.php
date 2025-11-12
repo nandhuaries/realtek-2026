@@ -646,8 +646,11 @@
                     </div>
                 </div>
             </div>
-            <div class="row g-4">
-                <div class="col-md-6 col-lg-4">
+            <div class="row justify-content-center">
+                <!--  -->
+                <div id="blogGrid" class="row gy-4"></div>
+                <!--  -->
+                <!-- <div class="col-md-6 col-lg-4">
                     <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
                         <span class="blog-date">20 May</span>
                         <div class="blog-item-img">
@@ -706,7 +709,7 @@
                             <a class="theme-btn" href="#">Read More<i class="fas fa-arrow-right"></i></a>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

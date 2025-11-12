@@ -493,6 +493,179 @@
 </script>
 <!-- end past speakers -->
 
+<!-- news and blogs -->
+<script>
+    const blogData = [{
+            date: "24 Sep 2024",
+            imgSrc: "assets/esol/newsBlogs/new-news/ff-news-24.png",
+            title: "REALTEK SUMMIT 2024: Celebrating Innovation and Excellence in Real Estate",
+            url: "https://ffnews.com/event_listing/realtek-summit-2024-celebrating-innovation-and-excellence-in-real-estate/",
+        },
+        {
+            date: "26 September 2024",
+            imgSrc: "assets/esol/newsBlogs/new-news/ff-news-biz.png",
+            title: "Charting New Horizons: RealTek Summit Showcases Real Estate’s Bright Future",
+            url: "https://ffnews.com/newsarticle/fintech/charting-new-horizons-realtek-summit-showcases-real-estates-bright-future/",
+        },
+        {
+            date: "24 September 2024",
+            imgSrc: "assets/esol/newsBlogs/new-news/kunal-puri-insta.png",
+            title: "Grateful for the amazing opportunity to share insights, connect with incredible people, and enjoy impactful conversations with industry leaders. Exciting times ahead!",
+            url: "https://www.instagram.com/kunalpuridxb/reel/DATYQO1SuQs/",
+        },
+        {
+            date: "24 September 2024",
+            imgSrc: "assets/esol/newsBlogs/new-news/mid-east-info.png",
+            title: "Charting New Horizons: RealTek Summit Showcases Real Estate’s Bright Future",
+            url: "https://mid-east.info/charting-new-horizons-realtek-summit-showcases-real-estates-bright-future/",
+        },
+        {
+            date: "24 October 2024",
+            imgSrc: "assets/esol/newsBlogs/new-news/asianet-newsable.png",
+            title: "This year’s Rising Star Award at Realtek Summit UAE goes to Praveen Pillai",
+            url: "https://newsable.asianetnews.com/pr-spot/this-year-s-rising-star-award-at-realtek-summit-uae-goes-to-praveen-pillai-sluvua",
+        },
+        {
+            date: "30 September 2024",
+            imgSrc: "assets/esol/newsBlogs/new-news/praveen-sejalnews.png",
+            title: "Praveen Pillai from Kerala Honored with ‘Rising Star’ Award at Realtek Summit 2024",
+            url: "https://sejalnewsnetwork.in/praveen-pillai/",
+        },
+        // old news
+        {
+            date: "24th July 2024",
+            imgSrc: "assets/esol/newsBlogs/REALTEK-SUMMIT-2024-Celebrating.png",
+            title: "REALTEK SUMMIT 2024: Celebrating Innovation and Excellence in Real Estate",
+            url: "https://ffnews.com/event_listing/realtek-summit-2024-celebrating-innovation-and-excellence-in-real-estate/"
+        },
+        {
+            date: "4th June 2024",
+            imgSrc: "assets/esol/newsBlogs/realtek-conf-23-a-convergence.png",
+            title: "Realtek Conference 2023: A Convergence of Innovators in Real Estate and Construction",
+            url: "https://www.estate500.com/post/realtek-conference-2023-a-convergence-of-innovators-in-real-estate-and-construction"
+        },
+        {
+            date: "23rd October 2023",
+            imgSrc: "assets/esol/newsBlogs/Land-Sterling-marks-14-years.png",
+            title: "Land Sterling marks 14 years of excellence and innovation",
+            url: "https://www.khaleejtimes.com/kt-network/land-sterling-marks-14-years-of-excellence-and-innovation"
+        },
+        {
+            date: "6th October 2023",
+            imgSrc: "assets/esol/newsBlogs/assma-abdulla.png",
+            title: "Discussing the future of Dubai's real estate market and building resilience beyond market bubbles at Realtek Summit 2023",
+            url: "https://www.instagram.com/p/CyEN6dFpiTc/?img_index=1"
+        },
+        {
+            date: "1st October 2023",
+            imgSrc: "assets/esol/newsBlogs/unlocking-tomorrows-realestaet-RIM.png",
+            title: "Unlocking Tomorrow’s Real Estate Landscape: Realtek Conference and Summit 2023, October 4 at Swissôtel Al Murooj, Dubai",
+            url: "https://realestateindustrymedia.com/2023/10/01/realtek-summit-2023-shaping-the-future-of-real-estate-and-construction/"
+        }
+        // end old news
+    ];
+</script>
+
+<script>
+    // your blogData array should already be defined above this script
+
+    // utility: try to extract day + shortMonth (e.g. "24 Sep") from various date strings
+    function extractDayMonth(dateStr) {
+        if (!dateStr) return {
+            day: '',
+            month: ''
+        };
+
+        // try patterns like "24 Sep 2024", "24th July 2024", "26 September 2024", "24th July"
+        const m = dateStr.match(/(\d{1,2})(?:st|nd|rd|th)?\s*([A-Za-z]{3,9})/);
+        if (m) {
+            const day = m[1];
+            // convert month to short form (Jan, Feb, Mar...)
+            const monthFull = m[2];
+            const monthShort = new Date(`${monthFull} 1, 2000`).toLocaleString('en', {
+                month: 'short'
+            });
+            return {
+                day,
+                month: monthShort
+            };
+        }
+
+        // fallback: try to find any two-digit day
+        const m2 = dateStr.match(/(\d{1,2})/);
+        if (m2) return {
+            day: m2[1],
+            month: ''
+        };
+
+        return {
+            day: dateStr,
+            month: ''
+        };
+    }
+
+    function createBlogCard(item) {
+        const {
+            day,
+            month
+        } = extractDayMonth(item.date);
+
+        // using template literal to build the card markup (matches the structure you provided)
+        return `
+                                <div class="col-md-6 col-lg-4">
+                                <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
+                                <span class="blog-date">${day}${month ? ' ' + month : ''}</span>
+                                <div class="blog-item-img">
+                                    <a href="${item.url}" target="_blank" rel="noopener noreferrer">
+                                    <img src="${item.imgSrc}" alt="${escapeHtml(item.title)}" loading="lazy">
+                                    </a>
+                                </div>
+                                <div class="blog-item-info">
+                                    <div class="blog-item-meta">
+                                    <ul>
+                                        <li><a href="#"><i class="far fa-user-circle"></i> By Admin</a></li>
+                                        <li><a href="#"><i class="far fa-comments"></i> 0 Comments</a></li>
+                                    </ul>
+                                    </div>
+                                    <h4 class="blog-title">
+                                    <a class="newDesc" href="${item.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
+                                    </h4>
+                                    <a class="theme-btn" href="${item.url}" target="_blank" rel="noopener noreferrer">Read More<i class="fas fa-arrow-right"></i></a>
+                                </div>
+                                </div>
+                            </div>
+                            `;
+    }
+    // Basic XSS-safe-escape for text fields used in HTML
+    function escapeHtml(str) {
+        return String(str)
+            .replace(/&/g, '&amp;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#39;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;');
+    }
+
+    // render into container:
+    (function renderBlogs() {
+        const container = document.getElementById('blogGrid');
+        if (!container) {
+            console.warn('No #blogGrid element found — add <div id="blogGrid" class="row"></div> to your HTML.');
+            return;
+        }
+
+        // map data -> markup
+        const html = blogData.map(createBlogCard).join('\n');
+        container.innerHTML = html;
+
+        // If you use wow.js / animate library, re-init it here (optional)
+        if (typeof WOW === 'function') {
+            new WOW().init();
+        }
+    })();
+</script>
+<!-- end news and blogs -->
+
 
 </body>
 
