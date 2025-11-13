@@ -122,7 +122,7 @@
                                     <li><a class="dropdown-item" href="index-3.html">Home Page 03</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="">Gallery</a></li>
+                            <li class="nav-item"><a class="nav-link" href="gallery">Gallery</a></li>
                             <li class="nav-item"><a class="nav-link" href="">Book Your Stand </a></li>
                             <li class="nav-item"><a class="nav-link" href="">Contact </a></li>
                             <!-- <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li> -->

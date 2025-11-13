@@ -399,6 +399,24 @@
 
             <div class="sponsor-carousel-wrapper">
                 <div class="owl-carousel owl-theme sponsor-carousel">
+                    <!-- <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/1.png" alt="Sponsor 1">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/2.png" alt="Sponsor 2">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/3.png" alt="Sponsor 3">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/4.png" alt="Sponsor 4">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/5.png" alt="Sponsor 5">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/6.png" alt="Sponsor 6">
+                    </div> -->
                     <div class="sponsor-logo-item">
                         <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/1.png" alt="Sponsor 1">
                     </div>
@@ -417,6 +435,121 @@
                     <div class="sponsor-logo-item">
                         <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/6.png" alt="Sponsor 6">
                     </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/7.png" alt="Sponsor 7">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/8.png" alt="Sponsor 8">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/9.png" alt="Sponsor 9">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/10.png" alt="Sponsor 10">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/11.webp" alt="Sponsor 11">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/12.png" alt="Sponsor 12">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/13.png" alt="Sponsor 13">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/14.svg" alt="Sponsor 14">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/15.png" alt="Sponsor 15">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/16.png" alt="Sponsor 16">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/17.jpg" alt="Sponsor 17">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/18.png" alt="Sponsor 18">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/19.webp" alt="Sponsor 19">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/20.jpg" alt="Sponsor 20">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/21.png" alt="Sponsor 21">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/22.png" alt="Sponsor 22">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/23.png" alt="Sponsor 23">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/24.png" alt="Sponsor 24">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/25.png" alt="Sponsor 25">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/26.png" alt="Sponsor 26">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/27.png" alt="Sponsor 27">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/28.jpg" alt="Sponsor 28">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/29.png" alt="Sponsor 29">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/30.png" alt="Sponsor 30">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/31.png" alt="Sponsor 31">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/32.jpg" alt="Sponsor 32">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/33.png" alt="Sponsor 33">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/34.jpg" alt="Sponsor 34">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/35.png" alt="Sponsor 35">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/36.png" alt="Sponsor 36">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/37.jpg" alt="Sponsor 37">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/38.jpg" alt="Sponsor 38">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/39.jpg" alt="Sponsor 39">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/40.jpg" alt="Sponsor 40">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/41.png" alt="Sponsor 41">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/42.png" alt="Sponsor 42">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/43.png" alt="Sponsor 43">
+                    </div>
+                    <div class="sponsor-logo-item">
+                        <img class="sponsor-logo-img" src="assets/esol/images/prev-sponsors/44.png" alt="Sponsor 44">
+                    </div>
+
                 </div>
 
                 <!-- Custom Navigation -->
